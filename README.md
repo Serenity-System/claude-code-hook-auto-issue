@@ -190,5 +190,5 @@ Pour plus de détails, consultez `SPECIFICATION.md` :
 
 **Auteur:** tincenv  
 **Status:** Prêt pour implémentation  
-**License:** À définir
+**License:** MIT License
 

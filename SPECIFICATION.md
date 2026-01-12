@@ -938,6 +938,6 @@ brew install jq
 
 **Auteur:** tincenv  
 **Contact:** via GitHub @tincenv  
-**License:** À définir  
+**License:** MIT License  
 **Status:** 📋 Spécification - Prêt pour implémentation
 
